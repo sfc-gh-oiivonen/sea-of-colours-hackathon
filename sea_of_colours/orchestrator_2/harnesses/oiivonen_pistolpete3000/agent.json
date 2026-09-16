@@ -1,0 +1,10 @@
+{
+  "team": "oiivonen",
+  "name": "pistolpete3000",
+  "participants": [
+    "olli"
+  ],
+  "menu_label": "OIIVONEN_PISTOLPETE3000 \u2014 oiivonen's agent (needs a Snowflake PAT \u00b7 slow)",
+  "entry": "harness:run",
+  "needs_llm": true
+}
