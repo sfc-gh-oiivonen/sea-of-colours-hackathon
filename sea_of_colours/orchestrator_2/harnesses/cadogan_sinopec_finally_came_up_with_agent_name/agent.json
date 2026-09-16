@@ -1,0 +1,21 @@
+{
+  "team": "cadogan_sinopec",
+  "name": "finally_came_up_with_agent_name",
+  "participants": [
+    "Kjell Geerts",
+    "Thomas Dubois",
+    "Nicolas Fernandez Martinez",
+    "Tingyi Li",
+    "Oliver Teller",
+    "Damien Saillard",
+    "Jennifer Vial",
+    "Laura Granek",
+    "Martin Savage",
+    "Mark Powell",
+    "Cristian Romero",
+    "Nauman Zahoor"
+  ],
+  "menu_label": "CADOGAN_SINOPEC_FINALLY_CAME_UP_WITH_AGENT_NAME \u2014 cadogan_sinopec's agent (needs a Snowflake PAT \u00b7 slow)",
+  "entry": "harness:run",
+  "needs_llm": true
+}
